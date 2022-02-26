@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/Bloc_de_registre.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/EX.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/SSD.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/MEM.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/MPG.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/ID.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/IF.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/test_env.vhd"
+
+# Do not sort compile order
+nosort

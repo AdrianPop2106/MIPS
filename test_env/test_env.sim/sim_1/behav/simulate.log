@@ -1,0 +1,7 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+ERROR: Index 65535 out of bound 0 to 128
+Time: 7865335 ns  Iteration: 6  Process: /test_env/me/line__70
+  File: C:/Users/Ady/Desktop/Chestii_Faculta/AC/test_env/test_env.srcs/sources_1/new/MEM.vhd
+
+HDL Line: C:/Users/Ady/Desktop/Chestii_Faculta/AC/test_env/test_env.srcs/sources_1/new/MEM.vhd:70
